@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c960a949f0defc342b4d960912456255
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9882579ef96048ee81a77d53dfacdc43, type: 3}
+  _includeScenesInFolder: 1
+  _recursive: 1
+  _forceIncludeScenes: []
+  _overrideMainScene: {fileID: 102900000, guid: 9c29dc07f772b9e469e8240c22a53f7d,
+    type: 3}
