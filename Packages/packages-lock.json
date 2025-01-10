@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.nickeltin.core": {
-      "version": "file:C:/Desktop/com.nickeltin.core-1.2.5.tgz",
+      "version": "file:com.nickeltin.core-1.2.5.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
@@ -10,7 +10,7 @@
       }
     },
     "com.nickeltin.scenes": {
-      "version": "file:C:/Desktop/com.nickeltin.scenes-0.0.1.tgz",
+      "version": "file:com.nickeltin.scenes-0.0.1.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {

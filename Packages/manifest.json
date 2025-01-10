@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.nickeltin.core": "file:C:/Desktop/com.nickeltin.core-1.2.5.tgz",
-    "com.nickeltin.scenes": "file:C:/Desktop/com.nickeltin.scenes-0.0.1.tgz",
+    "com.nickeltin.core": "file:com.nickeltin.core-1.2.5.tgz",
+    "com.nickeltin.scenes": "file:com.nickeltin.scenes-0.0.1.tgz",
     "com.unity.ai.navigation": "2.0.5",
     "com.unity.burst": "1.8.18",
     "com.unity.cinemachine": "2.10.3",
